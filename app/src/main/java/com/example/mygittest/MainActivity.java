@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
 
     Button bt;
     EditText et;
+    Boolean x1;
+    int x,y,z;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
